@@ -327,7 +327,7 @@ ui <- fluidPage(
         }
         
         .labri-header-logo img {
-          height: 82px;
+          height: 135px;
         }
         
         .labri-header-title {
